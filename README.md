@@ -28,11 +28,16 @@ df=pd.read_csv("data_set.csv")
 
 df
 
-<img><img width="1216" height="456" alt="image" src="https://github.com/user-attachments/assets/986fe36b-40c0-4379-b9c4-b4da946ea4ef" />
+<img width="1035" height="809" alt="image" src="https://github.com/user-attachments/assets/fbf283a4-e107-4133-9513-42ae821f5d4f" />
+<img width="1109" height="263" alt="image" src="https://github.com/user-attachments/assets/6ab8a70a-019a-4bf5-9e6a-d843d8bb57be" />
+<img width="1035" height="254" alt="image" src="https://github.com/user-attachments/assets/a0adde6d-9297-4000-bd2f-772959dc601d" />
+
+
+
 
 df.isnull()
+<img width="894" height="819" alt="image" src="https://github.com/user-attachments/assets/3e2a017d-5204-42f8-a61e-69c0f285b415" />
 
-<img><img width="714" height="525" alt="image" src="https://github.com/user-attachments/assets/72174c10-00f1-4b0c-af06-271347081b45" />
 
 df.isnull().sum()
 
